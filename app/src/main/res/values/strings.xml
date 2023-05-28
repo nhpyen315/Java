@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="main_text">Dimanapun kamu, pesan kost \nD\'paragon kini lebih mudah</string>
+    <string name="sub_text">Nikmati layanan maksimal dari D\'paragon, pesan kamar kost lebih mudah lewat aplikasi terbaru dengan tampilan yang lebih menarik.</string>
+    <string name="sub_text1">Sudah punya akun? </string>
+    <string name="sub_text2">Log in </string>
+
+
+</resources>
